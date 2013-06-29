@@ -1,0 +1,6 @@
+git add comandosubirgithub.txt
+git commit -m "comandosubirgithub"
+git push -u origin master
+
+--conexion--
+git remote add origin git@github.com:victorduoc/duocubuntu.git
